@@ -15,9 +15,9 @@ Este repositório foi feito para registrar o código e outras informações impo
 6. **Executar comando de criação de ambiente no terminal**: `python.exe -m venv venv`
 7. **Executar comando de ativação do ambiente**:  `.\venv\Scripts\activate`
 8. **Instalar bibliotecas necessárias (sempre aguardar o término de uma instalação antes de iniciar outra):**
-		 - `pip install streamlit`
-		 - `pip install pandas`
-		 - `pip install openpyxl`
+- `pip install streamlit`
+- `pip install pandas`
+- `pip install openpyxl`
 9. **Criar um arquivo `app.py` no diretório raiz e escrever algo nele (para fins de teste)**
 10. **Rodar o comando para executar a aplicação:** `streamlit run app.py` 
 

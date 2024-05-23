@@ -18,7 +18,7 @@ Este repositório foi feito para registrar o código e outras informações impo
 - `pip install streamlit`
 - `pip install pandas`
 - `pip install openpyxl`
-9. **Criar um arquivo `app.py` no diretório raiz e escrever algo nele (para fins de teste)**
+9. **Criar um arquivo **[app.py](https://github.com/jkss13/dash_streamlit/blob/main/app.py)** no diretório raiz e escrever algo nele (para fins de teste)**
 10. **Rodar o comando para executar a aplicação:** `streamlit run app.py` 
 
 ## Arquivos usados no projeto (dados e imagem)

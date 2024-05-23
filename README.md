@@ -29,5 +29,5 @@ Este repositório foi feito para registrar o código e outras informações impo
 - **[Documentação oficial do Streamlit](https://docs.streamlit.io/develop/api-reference)**
  - **[Curso de Python](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)**
  - **[Streamlit Cheat Sheet (folha de dicas)](https://cheat-sheet.streamlit.app/)**
- - **Pasta no Drive com aulas (link ainda será inserido)**
+ - **[Pasta no Drive com aulas](https://drive.google.com/drive/folders/137UKZlTdrgYORS-l_mIu1SUI-h7Uvwbh?usp=drive_link)**
  - **[Fonte dos dados utilizados no dashboard, com o significado das colunas](https://www.kaggle.com/datasets/whenamancodes/student-performance/data)**

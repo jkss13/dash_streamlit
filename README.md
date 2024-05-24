@@ -18,6 +18,7 @@ Este repositório foi feito para registrar o código e outras informações impo
 - `pip install streamlit`
 - `pip install pandas`
 - `pip install openpyxl`
+- `pip install plotly_express`
 9. **Criar um arquivo **[app.py](https://github.com/jkss13/dash_streamlit/blob/main/app.py)** no diretório raiz e escrever algo nele (para fins de teste)**
 10. **Rodar o comando para executar a aplicação:** `streamlit run app.py` 
 
@@ -31,3 +32,4 @@ Este repositório foi feito para registrar o código e outras informações impo
  - **[Streamlit Cheat Sheet (folha de dicas)](https://cheat-sheet.streamlit.app/)**
  - **[Pasta no Drive com aulas](https://drive.google.com/drive/folders/137UKZlTdrgYORS-l_mIu1SUI-h7Uvwbh?usp=drive_link)**
  - **[Fonte dos dados utilizados no dashboard, com o significado das colunas](https://www.kaggle.com/datasets/whenamancodes/student-performance/data)**
+ - **[Documentação da biblioteca Plotly-Express para criação de gráficos](https://plotly.com/python/plotly-express/)**

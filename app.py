@@ -16,10 +16,10 @@ st.write("Análise de performance de estudantes nas disciplinas de Português e 
 
 st.write("") # espaço em branco
 
-df_matematica = pd.read_excel("dados\Matemática.xlsx") # carregando planilha e transformando em dataframe
+df_matematica = pd.read_excel("dados/Matemática.xlsx") # carregando planilha e transformando em dataframe
 df_matematica['DISCIPLINA'] = "Matemática" # adicionando coluna com nome da disciplina
 
-df_portugues = pd.read_excel("dados\Português.xlsx")
+df_portugues = pd.read_excel("dados/Português.xlsx")
 df_portugues['DISCIPLINA'] = "Português"
 
 df = pd.concat([df_matematica, df_portugues], ignore_index=True) # juntando os dataframes

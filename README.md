@@ -36,4 +36,4 @@ Este repositório foi feito para registrar o código e outras informações impo
  - **[Pasta no Drive com aulas](https://drive.google.com/drive/folders/137UKZlTdrgYORS-l_mIu1SUI-h7Uvwbh?usp=drive_link)**
  - **[Fonte dos dados utilizados no dashboard, com o significado das colunas](https://www.kaggle.com/datasets/whenamancodes/student-performance/data)**
  - **[Documentação da biblioteca Plotly-Express para criação de gráficos](https://plotly.com/python/plotly-express/)**
- - **[Publique seu App](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app)**
+ - **[Publique seu app](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app)**

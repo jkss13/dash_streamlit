@@ -5,6 +5,9 @@
 
 Este repositório foi feito para registrar o código e outras informações importantes do projeto de desenvolvimento de um **Dashboard em Python usando a biblioteca** **Streamlit**. Caso deseje saber mais sobre essa biblioteca, clique [**aqui**](https://awari.com.br/streamlit-python/).  
 
+## Veja o projeto publicado
+👉 [Clique aqui](https://dashboard-dados-ufpe.streamlit.app/)
+
 ## Passo a passo para iniciar o projeto
 
 1.  **Instalar o [Python](https://www.python.org/downloads/)** 
@@ -33,3 +36,4 @@ Este repositório foi feito para registrar o código e outras informações impo
  - **[Pasta no Drive com aulas](https://drive.google.com/drive/folders/137UKZlTdrgYORS-l_mIu1SUI-h7Uvwbh?usp=drive_link)**
  - **[Fonte dos dados utilizados no dashboard, com o significado das colunas](https://www.kaggle.com/datasets/whenamancodes/student-performance/data)**
  - **[Documentação da biblioteca Plotly-Express para criação de gráficos](https://plotly.com/python/plotly-express/)**
+ - **[Publique seu App](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app)**
